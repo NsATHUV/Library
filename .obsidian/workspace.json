@@ -11,13 +11,8 @@
             "id": "ecc8972dc7900457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C语言笔记/C语言.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C语言笔记/C语言.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C语言笔记/C语言.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言笔记/C语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言笔记/C语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +194,9 @@
   },
   "active": "ecc8972dc7900457",
   "lastOpenFiles": [
-    "readme.md",
+    "新建 文本文档.txt",
     "C语言笔记/C语言.md",
+    "readme.md",
     "新建文件夹",
     "git 笔记/git.md",
     "git 笔记/git-files",
@@ -233,7 +224,6 @@
     "C语言笔记/数组/计算数组长度.md",
     "[.md",
     "C语言笔记/数组/未命名.md",
-    "C语言笔记/数组/初始化数组.md",
     "C语言笔记/C-files/image-20230826211222290.png",
     "C语言笔记/C-files/c-arrays-2021-1-18-4.png",
     "C语言笔记/C-files/c-arrays-2021-1-18-3.png",
