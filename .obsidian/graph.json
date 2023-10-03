@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"tags\":简介]",
+      "color": {
+        "a": 1,
+        "rgb": 4509594
+      }
+    },
+    {
+      "query": "[\"tags\":根]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "[\"tags\":内容]",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.00320069204152,
+  "lineSizeMultiplier": 2.60086505190311,
+  "collapse-forces": false,
+  "centerStrength": 0.76643598615917,
+  "repelStrength": 14.636678200692,
+  "linkStrength": 1,
+  "linkDistance": 232,
+  "scale": 0.9999999999999938,
+  "close": false
+}
