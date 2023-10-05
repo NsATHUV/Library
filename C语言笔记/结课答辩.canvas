@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"962da0d419f9d992","x":980,"y":-900,"width":400,"height":300,"type":"group","label":"未命名组"},
+		{"id":"a0aad8128c63c56c","type":"text","text":"## 知识点","x":100,"y":-400,"width":160,"height":60,"color":"4"},
+		{"id":"652e31274e2ea886","type":"text","text":"## 案例:二进制十进制互相转换\n","x":100,"y":-20,"width":280,"height":100,"color":"4"},
+		{"id":"2ecd40eeaeb97063","type":"text","text":"# C语言结课答辩","x":-320,"y":-220,"width":280,"height":60,"color":"1"},
+		{"id":"de046475a28630f4","type":"file","file":"C语言笔记/C语言.md","x":520,"y":-625,"width":300,"height":510,"color":"#cc3887"}
+	],
+	"edges":[
+		{"id":"4efd74d94d4834ef","fromNode":"2ecd40eeaeb97063","fromSide":"right","toNode":"a0aad8128c63c56c","toSide":"left"},
+		{"id":"f618a8bc2884b226","fromNode":"2ecd40eeaeb97063","fromSide":"right","toNode":"652e31274e2ea886","toSide":"left"},
+		{"id":"3f47190900ebdeaf","fromNode":"a0aad8128c63c56c","fromSide":"right","toNode":"de046475a28630f4","toSide":"left"}
+	]
+}

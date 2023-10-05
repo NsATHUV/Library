@@ -20,10 +20,10 @@ C语言笔记，基于Obsidian编写。多数内容摘自菜鸟编程，主要�
  3. 点击`Open Git Bash here`。
  4. 逐行执行以下指令。
 ```shell
-git init
-git clone https://gitee.com/NsATS/Notes.git
+git clone https://gitee.com/NsATS/Library.git
 ```
  5. 后续的更新请使用下面的指令进行
 ```shell
 git pull
 ```
+
