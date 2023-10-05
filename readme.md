@@ -1,18 +1,28 @@
-# C语言笔记
+# 笔记仓库
 
-#### 介绍
+## 介绍
 
 C语言笔记，基于Obsidian编写。多数内容摘自菜鸟编程，主要用于个人移动端云同步，也愿意共享给任何人。
 
-#### 最佳使用体验
+## 最佳使用体验
 
-- 将根目录添加至您的Obsidian仓库中。
+- 将根目录作为仓库添加至您的Obsidian仓库中。
+- 如果您会使用`git`，那么可以使用`git指令`来更新新版笔记。
+- 如果您是通过下载压缩包的形式使用该项目，建议您更新频率为1次/周，若每天更新将会因操作繁琐而的得不到良好的体验，自行斟酌。
 
-#### 特技
+## 简易的 `git` 教程
 
-1. 使用 Readme_XXX.md 来支持不同的语言，例如 Readme_en.md, Readme_zh.md
-2. Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com/)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5. Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+> 本人对于 git 的掌握也是皮毛，所以不确定能获得正确的反馈。
+> 如果您无法通过以下方法下载，或者更新，请及时反馈于我。
+ 
+ 1. 下载并安装git。
+ 2. 在您想要获取本仓库的路径空白处右键。
+ 3. 点击`Open Git Bash here`。
+ 4. 执行以下指令。
+```shell
+git clone https://gitee.com/NsATS/Notes.git
+```
+ 5. 后续的更新请使用下面的指令进行
+```shell
+git push
+```
