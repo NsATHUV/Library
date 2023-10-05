@@ -18,10 +18,10 @@ C语言笔记，基于Obsidian编写。多数内容摘自菜鸟编程，主要�
  1. 下载并安装git。
  2. 在您想要获取本仓库的路径空白处右键。
  3. 点击`Open Git Bash here`。
- 4. 1. 执行以下指令。
+ 4. 执行以下指令
 
 ```shell
-git clone https://gitee.com/NsATS/Notes.git
+git clone https://gitee.com/NsATS/Library.git
 ```
 
 该指令将自动创建一个名为`Library`的文件夹，后续更新操作请点击进入`Library`后进行
