@@ -1,0 +1,16 @@
+{
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "showLineNumber": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "git 笔记/git-files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "absolute"
+}
