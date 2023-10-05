@@ -206,11 +206,19 @@
   },
   "active": "4b788ba36a0d8ea6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "C语言笔记/C语言.md",
     "readme.md",
     "LICENSE",
     "C语言笔记/结课答辩.canvas",
     "结课答辩.canvas",
+=======
+    "readme.md",
+    "C语言笔记/结课答辩.canvas",
+    "结课答辩.canvas",
+    "C语言笔记/C语言.md",
+    "LICENSE",
+>>>>>>> 50380411c1c56785e5357adb0722b26221b38c5b
     "未命名.canvas",
     "C语言笔记/字符串.md",
     "C语言笔记/分支结构/关系表达式.md",
