@@ -22,7 +22,9 @@ C语言笔记，基于Obsidian编写。多数内容摘自菜鸟编程，主要�
 ```shell
 git clone https://gitee.com/NsATS/Notes.git
 ```
- 5. 后续的更新请使用下面的指令进行
+  该指令将自动创建一个名为`Library`的文件夹，后续更新操作请点击进入`Library`后进行
+  
+ 5. 后续的更新请在`Library`文件夹下使用下面的指令进行
 ```shell
-git push
+git pull
 ```
