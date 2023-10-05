@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecc8972dc7900457",
+            "id": "4b788ba36a0d8ea6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "短路求值",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -109,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,13 +139,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9999999999999999,
+                  "scale": 0.6024013357398963,
                   "close": true
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6eed7c2d60db7d77",
@@ -150,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,14 +200,26 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "ecc8972dc7900457",
+  "active": "4b788ba36a0d8ea6",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
     "C语言笔记/C语言.md",
     "readme.md",
+    "C语言笔记/结课答辩.canvas",
+    "未命名.canvas",
+    "C语言笔记/字符串.md",
+    "C语言笔记/分支结构/关系表达式.md",
+    "C语言笔记/分支结构/分支结构-简介.md",
+    "C语言笔记/分支结构/逻辑表达式.md",
+    "C语言笔记/结构体/结构体-简介.md",
+    "C语言笔记/结构体/定义结构体.md",
+    "C语言笔记/数组/数组-简介.md",
+    "C语言笔记/短路求值（求值策略）.md",
+    "C语言笔记/取值范围.md",
+    "新建 文本文档.txt",
     "新建文件夹",
     "git 笔记/git.md",
     "git 笔记/git-files",
@@ -204,26 +227,17 @@
     "git 笔记",
     "C语言笔记/作用域/初始化局部和全局变量.md",
     "C语言笔记/基础.md",
-    "C语言笔记/字符串.md",
-    "C语言笔记/分支结构/分支结构-简介.md",
     "待整理笔记.md",
-    "C语言笔记/结构体/结构体-简介.md",
     "C语言笔记/结构体/结构作为函数参数.md",
     "C语言笔记/结构体/访问结构成员.md",
     "C语言笔记/结构体/结构体变量的初始化.md",
-    "C语言笔记/结构体/定义结构体.md",
     "C语言笔记/数组/二维数组.md",
     "C语言笔记/文件包含（预处理）.md",
     "C语言笔记/函数/函数声明.md",
     "C语言笔记/结构体",
-    "C语言笔记/取值范围.md",
     "C语言笔记/数据类型.md",
     "C语言笔记/函数/库函数.md",
     "C语言笔记/函数/main 函数.md",
-    "C-files/c-array-2021-01-18-2.png.md",
-    "C语言笔记/数组/计算数组长度.md",
-    "[.md",
-    "C语言笔记/数组/未命名.md",
     "C语言笔记/C-files/image-20230826211222290.png",
     "C语言笔记/C-files/c-arrays-2021-1-18-4.png",
     "C语言笔记/C-files/c-arrays-2021-1-18-3.png",
@@ -237,10 +251,8 @@
     "C语言笔记/循环结构/未命名",
     "C语言笔记/循环结构",
     "优先级和结合性.pdf",
-    "C语言笔记/分支结构",
     "C语言笔记/C-files/two_dimensional_arrays.jpg",
     "C语言笔记/C-files/image-20230906150800186.png",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }
