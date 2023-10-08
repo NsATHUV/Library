@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "C语言笔记/函数/库函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "printf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "C语言笔记/函数/库函数.md"
               }
             }
           },
@@ -116,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "readme.md",
+                "file": "C语言笔记/函数/库函数.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6eed7c2d60db7d77",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "C语言笔记/函数/库函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,19 +176,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "C语言笔记/函数/库函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,62 +204,55 @@
   },
   "active": "4b788ba36a0d8ea6",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "C语言笔记/函数/函数-简介.md",
+    "C语言笔记/标识符命名规则.md",
+    "C语言笔记/指针/使用指针变量.md",
+    "C语言笔记/指针/指针-简介.md",
+    "C语言笔记/运算符/优先级和结合性.md",
+    "C语言笔记/数据类型.md",
+    "C语言笔记/指针/定义指针变量.md",
     "C语言笔记/C语言.md",
-    "readme.md",
-    "LICENSE",
-    "C语言笔记/结课答辩.canvas",
-    "结课答辩.canvas",
-=======
-    "readme.md",
-    "C语言笔记/结课答辩.canvas",
-    "结课答辩.canvas",
-    "C语言笔记/C语言.md",
-    "LICENSE",
->>>>>>> 50380411c1c56785e5357adb0722b26221b38c5b
-    "未命名.canvas",
-    "C语言笔记/字符串.md",
-    "C语言笔记/分支结构/关系表达式.md",
     "C语言笔记/分支结构/分支结构-简介.md",
-    "C语言笔记/分支结构/逻辑表达式.md",
-    "C语言笔记/结构体/结构体-简介.md",
+    "指针.md",
+    "C语言笔记/结课答辩.canvas",
+    "C语言笔记/数组/二维数组.md",
+    "C语言笔记/数组/初始化数组.md",
     "C语言笔记/结构体/定义结构体.md",
+    "git 笔记/git-files/Pasted image 20231007133631.png",
+    "C语言笔记/循环结构/循环结构-简介.md",
+    "C语言笔记/指针",
+    "C语言笔记/C-files/二维数组示意.jpg",
+    "C语言笔记/C-files/DEV C++界面展示.png",
+    "C语言笔记/C-files/VS界面展示.png",
+    "C语言笔记/基础.md",
+    "C语言笔记/C-files/短路求值.png",
+    "C语言笔记/C-files/数据类型.png",
+    "C语言笔记/C-files/C语言关键词.png",
+    "C语言笔记/C-files/示例数组.png",
+    "C语言笔记/C-files/数组元素.png",
+    "C语言笔记/C-files/数组结构示意图.png",
+    "C语言笔记/转义字符.md",
+    "C语言笔记/字符串.md",
     "C语言笔记/数组/数组-简介.md",
+    "C语言笔记/结构体/结构体-简介.md",
+    "C语言笔记/运算符/运算符-简介.md",
+    "C语言笔记/文件包含（预处理）.md",
+    "C语言笔记/循环结构/break 和 continue.md",
+    "readme.md",
+    "LICENSE",
+    "结课答辩.canvas",
+    "未命名.canvas",
+    "C语言笔记/分支结构/关系表达式.md",
+    "C语言笔记/分支结构/逻辑表达式.md",
     "C语言笔记/短路求值（求值策略）.md",
-    "C语言笔记/取值范围.md",
     "新建 文本文档.txt",
     "新建文件夹",
-    "git 笔记/git.md",
     "git 笔记/git-files",
-    "C语言笔记/分支结构/if语句.md",
     "git 笔记",
-    "C语言笔记/作用域/初始化局部和全局变量.md",
-    "C语言笔记/基础.md",
-    "待整理笔记.md",
-    "C语言笔记/结构体/结构作为函数参数.md",
-    "C语言笔记/结构体/访问结构成员.md",
-    "C语言笔记/结构体/结构体变量的初始化.md",
-    "C语言笔记/数组/二维数组.md",
-    "C语言笔记/文件包含（预处理）.md",
-    "C语言笔记/函数/函数声明.md",
     "C语言笔记/结构体",
-    "C语言笔记/数据类型.md",
-    "C语言笔记/函数/库函数.md",
-    "C语言笔记/函数/main 函数.md",
-    "C语言笔记/C-files/image-20230826211222290.png",
-    "C语言笔记/C-files/c-arrays-2021-1-18-4.png",
-    "C语言笔记/C-files/c-arrays-2021-1-18-3.png",
-    "C语言笔记/C-files/c-array-2021-01-18-2.png",
-    "C语言笔记/C-files/image-20230830113405997.png",
-    "C语言笔记/C-files/image-20230901144134929.png",
-    "C语言笔记/C-files/image-20230901144051304.png",
-    "C语言笔记/C-files/Pasted image 20230930215506.png",
     "C-files",
     "C语言笔记/数组",
     "C语言笔记/循环结构/未命名",
-    "C语言笔记/循环结构",
-    "C语言笔记/C-files/two_dimensional_arrays.jpg",
-    "C语言笔记/C-files/image-20230906150800186.png",
     "未命名 1.canvas"
   ]
 }

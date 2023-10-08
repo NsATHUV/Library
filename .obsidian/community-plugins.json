@@ -1,11 +1,7 @@
 [
-  "table-editor-obsidian",
-  "settings-search",
-  "keyboard-analyzer",
   "editing-toolbar",
-<<<<<<< HEAD
-=======
-  "obsidian-git",
->>>>>>> 50380411c1c56785e5357adb0722b26221b38c5b
-  "remotely-save"
+  "keyboard-analyzer",
+  "remotely-save",
+  "settings-search",
+  "table-editor-obsidian"
 ]
