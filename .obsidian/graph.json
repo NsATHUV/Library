@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14048448
       }
+    },
+    {
+      "query": "tag:#案例  ",
+      "color": {
+        "a": 1,
+        "rgb": 6598621
+      }
     }
   ],
   "collapse-display": false,
@@ -36,9 +43,9 @@
   "lineSizeMultiplier": 2.60086505190311,
   "collapse-forces": false,
   "centerStrength": 0.76643598615917,
-  "repelStrength": 14.636678200692,
+  "repelStrength": 18.0103806228374,
   "linkStrength": 1,
   "linkDistance": 232,
-  "scale": 0.9999999999999931,
+  "scale": 0.6024013357398904,
   "close": true
 }

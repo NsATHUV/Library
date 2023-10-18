@@ -1,10 +1,10 @@
 {
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "git 笔记/git-files",
+  "attachmentFolderPath": "Web前端/Web-Files",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

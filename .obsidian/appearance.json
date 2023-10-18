@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#32c6bf",
   "interfaceFontFamily": "小米兰亭 Pro",
   "textFontFamily": "小米兰亭 Pro",
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "translucency": false,
   "nativeMenus": false,
   "theme": "system"
