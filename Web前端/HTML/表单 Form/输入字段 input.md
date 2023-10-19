@@ -16,11 +16,11 @@ aliases:
 	- `email`：用于接受电子邮件地址，可以包含电子邮件验证。
 	- `url`：用于接受URL地址，可以包含URL验证。
 	- `date`：用于接受日期，可以选择日历日期。
-	- `file`：用于[[Web前端/HTML/标签/表单 Form/文件域 File|上传文件]]，允许用户选择并上传文件。
+	- `file`：用于[[Web前端/HTML/表单 Form/文件域 File|上传文件]]，允许用户选择并上传文件。
 	- `button`：用于创建按钮，触发特定操作或事件。可以指定`type`属性，例如`submit`、`reset`、或`button`。
 	- `image`：用于显示图像作为按钮，触发特定操作或事件。可以指定`src`属性来指定图像源，以及`alt`属性提供图像的替代文本。
-		- [[Web前端/HTML/标签/表单 Form/form-input 案例|form-input 案例]]：与`<input>`常同时使用的是[[Web前端/HTML/标签/表单 Form/表单 Form&input#^e6135d|<label>]]。
-		- [[Web前端/HTML/标签/表单 Form/Input Type属性&功能对照表|Input Type属性&功能对照表]] 
+		- [[Web前端/HTML/表单 Form/form-input 案例|form-input 案例]]：与`<input>`常同时使用的是[[Web前端/HTML/表单 Form/表单 Form#^e6135d|<label>]]。
+		- [[Web前端/HTML/表单 Form/Input Type属性&功能|Input Type属性&功能]] 
 
 2. HTML5引入了一系列新的输入字段类型，这些新类型允许开发者更精确地定义表单元素，以便更好地满足用户需求。以下是这些新的输入类型以及它们的解释：
 	- `color`：用于选择颜色的输入字段，通常以颜色选择器的形式展示。
@@ -38,40 +38,36 @@ aliases:
 	- `week`：用于选择一年中的特定周的输入字段，通常包括周数选择器。
 	注释：老式 web 浏览器不支持的输入类型，会被视为输入类型 text。
 
-1. **`name` 属性**：`name` 属性用于为输入字段命名，以便在表单提交时识别和处理数据。它必须在整个表单中是唯一的。
+3. **`name` 属性**：`name` 属性用于为输入字段命名，以便在表单提交时识别和处理数据。它必须在整个表单中是唯一的。
 
-2. **`value` 属性**：`value` 属性用于设置输入字段的初始值。对于文本输入，这是默认文本；对于单选按钮和复选框，这是选中状态；对于数字输入，这是默认数字。
+4. **`value` 属性**：`value` 属性用于设置输入字段的初始值。对于文本输入，这是默认文本；对于单选按钮和复选框，这是选中状态；对于数字输入，这是默认数字。
 
-3. **`placeholder` 属性**：`placeholder` 属性用于提供对用户所需输入的提示或示例。它通常显示在输入字段内，但在用户开始输入时会自动消失。 ^e07575
+5. **`placeholder` 属性**：`placeholder` 属性用于提供对用户所需输入的提示或示例。它通常显示在输入字段内，但在用户开始输入时会自动消失。 ^e07575
 
-```html
-<input type="text" name="username" placeholder="请输入用户名" />
-```
+	```html
+	<input type="text" name="username" placeholder="请输入用户名" />
+	```
 
-5. **`disabled` 属性**：`disabled` 属性用于禁用输入字段，使用户无法编辑或选择它。
+6. **`disabled` 属性**：`disabled` 属性用于禁用输入字段，使用户无法编辑或选择它。
 
-```html
-<input type="text" name="disabledInput" value="这是禁用的输入字段" disabled />
-```
+	```html
+	<input type="text" name="disabledInput" value="这是禁用的输入字段" disabled />
+	```
 
-6. **`readonly` 属性**：`readonly` 属性使输入字段只读，用户可以查看但不能编辑它。
+7. **`readonly` 属性**：`readonly` 属性使输入字段只读，用户可以查看但不能编辑它。
 
-```html
-<input type="text" name="readOnlyInput" value="这是只读字段" readonly />
-```
+	```html
+	<input type="text" name="readOnlyInput" value="这是只读字段" readonly />
+	```
 
-7. **`required` 属性**：`required` 属性指示用户必须填写该字段，否则表单将无法提交。 ^6032fc
+8. **`required` 属性**：`required` 属性指示用户必须填写该字段，否则表单将无法提交。 ^6032fc
 
-```html
-<input type="text" name="requiredInput" required />
-```
-
-8. **`max` 和 `min` 属性**：对于类型为 "number" 的输入字段，`max` 和 `min` 属性用于定义可接受的最大和最小值范围。
-
-```html
-<input type="number" name="age" min="18" max="99" />
-```
+	```html
+	<input type="text" name="requiredInput" required />
+	```
 
 9. `pattern`:规定输入字段的值的模式或格式,使用的是正则表达式语法。例如 `pattern="[0-9]"`表示输入值必须是 0 与 9 之间的数字。 ^d3f248
+
+10. `title` :可以让用户在鼠标悬停在元素上时显示提示文本。
 
 `<input>` 元素是表单中最常用的元素之一，通过不同的类型和属性，它可以用于接受各种不同类型的用户输入数据，并为用户提供清晰的输入界面。这使得它成为构建互动性网页和收集用户信息的关键工具。

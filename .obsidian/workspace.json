@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/HTML/标签/表单 Form/表单 Form&input.md",
+                "file": "Web前端/HTML/标签属性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,26 +21,19 @@
             }
           },
           {
-            "id": "40a14b3bf4016355",
+            "id": "bfccea63b116d496",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "6eac98f114a9479a",
+            "id": "0dbef6ea688a3c2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web前端/HTML/标签/表单 Form/文件域 File.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -73,10 +66,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "button",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -110,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web前端/HTML/标签/表单 Form/表单 Form&input.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/HTML/标签/表单 Form/表单 Form&input.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6eed7c2d60db7d77",
@@ -175,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/HTML/标签/表单 Form/表单 Form&input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/HTML/标签/表单 Form/表单 Form&input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,38 +206,42 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "40a14b3bf4016355",
+  "active": "bfccea63b116d496",
   "lastOpenFiles": [
-    "C语言笔记/结课答辩_蔡.canvas",
-    "Web前端/HTML/标签/表单 Form/文件域 File.md",
-    "Web前端/HTML/标签/表单 Form/form-input 案例.md",
-    "Web前端/HTML/标签/表单 Form/隐藏域 Hidden.md",
-    "Web前端/HTML/标签/表单 Form/表单初级验证.md",
-    "Web前端/HTML/标签/表单 Form/输入字段 input.md",
-    "Web前端/HTML/标签/表单 Form/Input Type属性&功能对照表.md",
-    "Web前端/HTML/标签/内联框架 iframe.md",
-    "Web前端/HTML/标签/表单 Form/下拉列表 select.md",
+    "Web前端/HTML/标签-简介.md",
+    "Web前端/HTML/图像标签 img.md",
+    "Web前端/HTML/表单 Form/输入字段 input.md",
+    "Web前端/HTML/表单 Form/Input Type属性&功能.md",
+    "Web前端/HTML/标签属性.md",
+    "Web前端/HTML/标题 H.md",
+    "Web前端/HTML/表格 Table.md",
+    "Web前端/HTML/超链接 a href.md",
+    "Web前端/HTML/文本格式化和排版标签.md",
+    "Web前端/HTML/表单 Form/文件域 File.md",
+    "Web前端/HTML/表单 Form/隐藏域 Hidden.md",
+    "Web前端/CSS/CSS基本语法结构.md",
+    "Web前端/CSS/CSS简介.md",
+    "Web前端/Web-Files/CSS语法.gif",
+    "Web前端/Web-Files/CSS语法.gif.crdownload",
+    "Web前端/CSS/CSS引入方式.md",
+    "Web前端/HTML/内联框架 iframe.md",
+    "Web前端/HTML/表单 Form/Form 属性.md",
+    "Web前端/HTML/盒子 div&span.md",
+    "前端框架/前端框架.md",
+    "Web前端/CSS/样式标签 style.md",
+    "Web前端/HTML/段落 P.md",
+    "Web前端/MIME类型.md",
     "Web前端/Web 前端.md",
-    "Web前端/HTML/标签/表单 Form/表单 Form&input.md",
-    "Web前端/计算单位.md",
-    "C语言笔记/C语言.md",
-    "C语言笔记/结课答辩/二十进制转换代码.md",
-    "Git/Git介绍.md",
+    "Web前端/HTML/标签/文本样式和排版标签.md",
+    "日记/2023-10-01.md",
+    "Web前端/CSS/link标签.md",
+    "Web前端/HTML/滚动 Marquee.md",
+    "Web前端/HTML/标签",
+    "C语言笔记/结课答辩/结课答辩_蔡.canvas",
+    "C语言笔记/结课答辩_蔡.canvas",
     "Web前端/CSS",
     "Web前端/HTML",
-    "Web前端/网页和网站.md",
-    "Web前端/未命名.md",
-    "Web前端/页面布局.md",
-    "Web前端/万维网.md",
-    "Web前端/HTML/标签/文本样式和排版标签.md",
-    "Web前端/HTML/标签/列表 ul ol dl.md",
-    "Web前端/HTML/标签/滚动 Marquee.md",
-    "Web前端/HTML/标签/段落 P.md",
-    "Web前端/HTML/标签/超链接 a href.md",
-    "Web前端/HTML/标签/表格 Table.md",
-    "Web前端/HTML/标签/标题 H.md",
-    "Web前端/HTML/标签/表单 Form",
-    "C语言笔记/结课答辩/结课答辩_蔡.canvas",
+    "Web前端/HTML/表单 Form",
     "C语言笔记/C-files/逆向取余法.png",
     "C语言笔记/结课答辩",
     "C语言笔记/C-files/二进制转换.exe",
@@ -257,17 +249,14 @@
     "Web前端/Web-Files/Pasted image 20231009135005.png",
     "Web前端/Web-Files/Pasted image 20231009135231.png",
     "Web前端/Web-Files",
-    "Web前端/HTML/标签",
     "Web前端",
     "前端框架",
     "Git/git-files/Pasted image 20231007133631.png",
-    "C语言笔记/指针",
     "C语言笔记/C-files/二维数组示意.jpg",
     "C语言笔记/C-files/DEV C++界面展示.png",
     "C语言笔记/C-files/VS界面展示.png",
     "C语言笔记/C-files/短路求值.png",
     "C语言笔记/C-files/数据类型.png",
-    "C语言笔记/C-files/C语言关键词.png",
     "结课答辩.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
