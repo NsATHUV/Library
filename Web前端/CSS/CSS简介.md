@@ -34,4 +34,4 @@ CSS是前端网页开发的重要组成部分，它使开发者能够精确控�
 1. [[Web前端/CSS/样式标签 style|样式标签 style]]
 2. [[Web前端/CSS/CSS基本语法结构|CSS基本语法结构]]
 3. [[Web前端/CSS/CSS引入方式|CSS引入方式]]
-4. [[Web前端/CSS/link标签|link标签]]
+4. [[Web前端/CSS/Link标签|Link标签]]
