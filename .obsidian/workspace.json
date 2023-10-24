@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/CSS/Link标签.md",
+                "file": "Web前端/CSS/CSS选择器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web前端/CSS/Link标签.md"
+                "file": "Web前端/CSS/CSS选择器.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/CSS/Link标签.md",
+                "file": "Web前端/CSS/CSS选择器.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/CSS/Link标签.md",
+                "file": "Web前端/CSS/CSS选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/CSS/Link标签.md",
+                "file": "Web前端/CSS/CSS选择器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,12 +195,12 @@
   },
   "active": "aab4c3300357ee3f",
   "lastOpenFiles": [
-    "Web前端/CSS/CSS选择器.md",
-    "Web前端/CSS/CSS简介.md",
     "Web前端/CSS/CSS基本语法结构.md",
+    "Web前端/CSS/CSS选择器.md",
+    "Web前端/CSS/Link标签.md",
+    "Web前端/CSS/CSS简介.md",
     "Web前端/CSS/CSS引入方式.md",
     "Web前端/CSS/样式标签 style.md",
-    "Web前端/CSS/Link标签.md",
     "Web前端/MIME类型.md",
     "Web前端/HTML/标签属性.md",
     "C语言笔记/C语言.md",
