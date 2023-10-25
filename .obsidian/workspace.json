@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/CSS/CSS选择器.md",
+                "file": "Web前端/CSS/CSS引入方式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web前端/CSS/CSS选择器.md"
+                "file": "Web前端/CSS/CSS引入方式.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/CSS/CSS选择器.md",
+                "file": "Web前端/CSS/CSS引入方式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/CSS/CSS选择器.md",
+                "file": "Web前端/CSS/CSS引入方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/CSS/CSS选择器.md",
+                "file": "Web前端/CSS/CSS引入方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +195,14 @@
   },
   "active": "aab4c3300357ee3f",
   "lastOpenFiles": [
+    "Web前端/HTML/盒子 div&span.md",
+    "Web前端/CSS/CSS引入方式.md",
+    "Web前端/CSS/选择器/伪类选择器.md",
+    "Web前端/CSS/选择器/CSS选择器.md",
+    "Web前端/CSS/选择器",
     "Web前端/CSS/CSS基本语法结构.md",
-    "Web前端/CSS/CSS选择器.md",
     "Web前端/CSS/Link标签.md",
     "Web前端/CSS/CSS简介.md",
-    "Web前端/CSS/CSS引入方式.md",
     "Web前端/CSS/样式标签 style.md",
     "Web前端/MIME类型.md",
     "Web前端/HTML/标签属性.md",
@@ -219,10 +222,8 @@
     "Web前端/Web-Files/CSS语法.gif.crdownload",
     "Web前端/HTML/内联框架 iframe.md",
     "Web前端/HTML/表单 Form/Form 属性.md",
-    "Web前端/HTML/盒子 div&span.md",
     "前端框架/前端框架.md",
     "Web前端/Web 前端.md",
-    "Web前端/HTML/标签/文本样式和排版标签.md",
     "Web前端/HTML/标签",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
     "C语言笔记/结课答辩_蔡.canvas",
@@ -237,7 +238,6 @@
     "Web前端/Web-Files/Pasted image 20231009135231.png",
     "Web前端/Web-Files",
     "Web前端",
-    "前端框架",
     "Git/git-files/Pasted image 20231007133631.png",
     "C语言笔记/C-files/二维数组示意.jpg",
     "C语言笔记/C-files/DEV C++界面展示.png",
