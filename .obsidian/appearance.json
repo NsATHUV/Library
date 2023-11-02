@@ -1,9 +1,14 @@
 {
   "accentColor": "#32c6bf",
-  "interfaceFontFamily": "小米兰亭 Pro",
-  "textFontFamily": "小米兰亭 Pro",
+  "interfaceFontFamily": "HarmonyOS Sans SC,小米兰亭 Pro",
+  "textFontFamily": "小米兰亭 Pro,HarmonyOS Sans SC",
   "baseFontSize": 19,
   "translucency": false,
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "monospaceFontFamily": "小米兰亭 Pro,HarmonyOS Sans SC,MiSans",
+  "enabledCssSnippets": [
+    "NsATS"
+  ]
 }

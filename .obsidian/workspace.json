@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aab4c3300357ee3f",
+            "id": "41b9524dd57db91e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/CSS/CSS引入方式.md",
+                "file": "Web前端/CSS/选择器/CSS选择器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "186d1560f3edcfb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web前端/CSS/网页布局/标准文档流.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,10 +62,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NAV",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web前端/CSS/CSS引入方式.md"
+                "file": "Web前端/CSS/选择器/CSS选择器.md"
               }
             }
           },
@@ -108,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/CSS/CSS引入方式.md",
+                "file": "Web前端/CSS/选择器/CSS选择器.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6eed7c2d60db7d77",
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/CSS/CSS引入方式.md",
+                "file": "Web前端/CSS/选择器/CSS选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/CSS/CSS引入方式.md",
+                "file": "Web前端/CSS/选择器/CSS选择器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,37 +207,41 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "aab4c3300357ee3f",
+  "active": "41b9524dd57db91e",
   "lastOpenFiles": [
-    "Web前端/HTML/盒子 div&span.md",
-    "Web前端/CSS/CSS引入方式.md",
-    "Web前端/CSS/选择器/伪类选择器.md",
+    "Web前端/CSS/网页布局/标准文档流.md",
+    "Web前端/CSS/CSS属性/列表(list)属性.md",
     "Web前端/CSS/选择器/CSS选择器.md",
-    "Web前端/CSS/选择器",
-    "Web前端/CSS/CSS基本语法结构.md",
-    "Web前端/CSS/Link标签.md",
+    "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
+    "Web前端/CSS/网页布局/浮动.md",
+    "Web前端/CSS/网页布局/网页布局-简介.md",
+    "Web前端/CSS/CSS样式命名 说明.md",
+    "Web前端/CSS/CSS属性/未命名",
     "Web前端/CSS/CSS简介.md",
-    "Web前端/CSS/样式标签 style.md",
-    "Web前端/MIME类型.md",
-    "Web前端/HTML/标签属性.md",
-    "C语言笔记/C语言.md",
-    "Web前端/HTML/段落 P.md",
-    "Web前端/HTML/标签-简介.md",
-    "Web前端/HTML/图像标签 img.md",
-    "Web前端/HTML/表单 Form/输入字段 input.md",
-    "Web前端/HTML/表单 Form/Input Type属性&功能.md",
-    "Web前端/HTML/标题 H.md",
-    "Web前端/HTML/表格 Table.md",
-    "Web前端/HTML/超链接 a href.md",
-    "Web前端/HTML/文本格式化和排版标签.md",
-    "Web前端/HTML/表单 Form/文件域 File.md",
-    "Web前端/HTML/表单 Form/隐藏域 Hidden.md",
+    "Web前端/HTML/盒子和跨距 div&span.md",
+    "Web前端/CSS/网页布局",
+    "C语言笔记/数组/二维数组.md",
+    "C语言笔记/数组/访问数组元素.md",
+    "C语言笔记/数组/声明数组.md",
+    "C语言笔记/数组/数组-简介.md",
+    "C语言笔记/数组/数组名.md",
+    "C语言笔记/指针/定义指针变量.md",
+    "C语言笔记/指针/指针-简介.md",
+    "C语言笔记/基础.md",
+    "Web前端/CSS/盒子模型.md",
+    "Hbuilder.md",
+    "Web前端/CSS/CSS属性/CSS 属性.md",
+    "Web前端/CSS/CSS属性/边框(border)属性.md",
+    "Web前端/CSS/CSS属性/字体(font)&文本(text)属性.md",
+    "Web前端/CSS/CSS属性/外边距(margin)属性.md",
+    "Web前端/CSS/CSS属性/背景(background)属性.md",
+    "Web前端/Web-Files/盒子模型.png",
+    "Web前端/CSS/选择器/伪类选择器.md",
+    "Web前端/CSS/Link标签.md",
+    "Web前端/CSS/CSS属性",
+    "Web前端/CSS/选择器",
     "Web前端/Web-Files/CSS语法.gif",
     "Web前端/Web-Files/CSS语法.gif.crdownload",
-    "Web前端/HTML/内联框架 iframe.md",
-    "Web前端/HTML/表单 Form/Form 属性.md",
-    "前端框架/前端框架.md",
-    "Web前端/Web 前端.md",
     "Web前端/HTML/标签",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
     "C语言笔记/结课答辩_蔡.canvas",
@@ -232,18 +250,14 @@
     "Web前端/HTML/表单 Form",
     "C语言笔记/C-files/逆向取余法.png",
     "C语言笔记/结课答辩",
-    "C语言笔记/C-files/二进制转换.exe",
     "C语言笔记/结课答辩.canvas",
     "Web前端/Web-Files/Pasted image 20231009135005.png",
     "Web前端/Web-Files/Pasted image 20231009135231.png",
-    "Web前端/Web-Files",
-    "Web前端",
     "Git/git-files/Pasted image 20231007133631.png",
     "C语言笔记/C-files/二维数组示意.jpg",
     "C语言笔记/C-files/DEV C++界面展示.png",
     "C语言笔记/C-files/VS界面展示.png",
     "C语言笔记/C-files/短路求值.png",
-    "C语言笔记/C-files/数据类型.png",
     "结课答辩.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

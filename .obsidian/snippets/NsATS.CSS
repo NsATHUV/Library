@@ -1,0 +1,9 @@
+.markdown-rendered mark {
+    background-color: rgb(68 211 165 / 33%);
+    color: var(--text-normal);
+}
+
+.cm-s-obsidian span.cm-highlight {
+    background-color: rgb(68 211 165 / 33%);
+    color: var(--text-normal);
+}
