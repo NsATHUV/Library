@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path:Web前端  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 17.80276816609,
   "linkStrength": 1,
   "linkDistance": 232,
-  "scale": 0.3823010968769959,
-  "close": true
+  "scale": 0.6346285676930578,
+  "close": false
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41b9524dd57db91e",
+            "id": "562b719363e80002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/CSS/选择器/CSS选择器.md",
+                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "186d1560f3edcfb4",
+            "id": "f3d485e4335c5cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web前端/CSS/网页布局/标准文档流.md",
+                "file": "Web前端/CSS/网页布局/浮动.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "165b8a1a334ee69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web前端/EMMET 语法/EMMET-CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NAV",
+                "query": "scope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 285.5
   },
   "right": {
     "id": "08fd46356a5bb0ef",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web前端/CSS/选择器/CSS选择器.md"
+                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/CSS/选择器/CSS选择器.md",
+                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/CSS/选择器/CSS选择器.md",
+                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/CSS/选择器/CSS选择器.md",
+                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,37 +220,41 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "41b9524dd57db91e",
+  "active": "562b719363e80002",
   "lastOpenFiles": [
-    "Web前端/CSS/网页布局/标准文档流.md",
-    "Web前端/CSS/CSS属性/列表(list)属性.md",
-    "Web前端/CSS/选择器/CSS选择器.md",
-    "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
     "Web前端/CSS/网页布局/浮动.md",
+    "Web前端/EMMET 语法/EMMET-CSS.md",
+    "Web前端/EMMET 语法/EMMET-HTML.md",
+    "Web前端/Web 前端.md",
     "Web前端/CSS/网页布局/网页布局-简介.md",
+    "Web前端/CSS/网页布局/标准文档流.md",
+    "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
+    "Web前端/CSS/CSS属性/CSS 属性.md",
+    "Web前端/CSS/CSS属性/列表(list)属性.md",
+    "Web前端/CSS/CSS属性/外边距(margin)属性.md",
+    "Web前端/CSS/CSS属性/字体(font)&文本(text)属性.md",
+    "2023-11-10.md",
+    "Web前端/CSS/盒子模型.md",
+    "Web前端/CSS/CSS属性/边框(border)属性.md",
+    "Web前端/CSS/选择器/CSS选择器.md",
+    "Web前端/CSS/选择器/伪类选择器.md",
+    "Web前端/HTML/列表 ul ol dl.md",
     "Web前端/CSS/CSS样式命名 说明.md",
-    "Web前端/CSS/CSS属性/未命名",
+    "新.md",
+    "Web前端/CSS/CSS引入方式.md",
     "Web前端/CSS/CSS简介.md",
+    "Web前端/CSS/CSS基本语法结构.md",
+    "Web前端/CSS/样式标签 style.md",
+    "Web前端/CSS/CSS属性/背景(background)属性.md",
+    "Web前端/网页和网站.md",
+    "Web前端/emmet语法/未命名",
+    "Web前端/emmet语法/EMMET-CSS",
+    "Web前端/emmet语法/EMMET-HTML",
+    "Web前端/EMMET 语法",
+    "Web前端/CSS/CSS属性/未命名",
     "Web前端/HTML/盒子和跨距 div&span.md",
     "Web前端/CSS/网页布局",
-    "C语言笔记/数组/二维数组.md",
-    "C语言笔记/数组/访问数组元素.md",
-    "C语言笔记/数组/声明数组.md",
-    "C语言笔记/数组/数组-简介.md",
-    "C语言笔记/数组/数组名.md",
-    "C语言笔记/指针/定义指针变量.md",
-    "C语言笔记/指针/指针-简介.md",
-    "C语言笔记/基础.md",
-    "Web前端/CSS/盒子模型.md",
-    "Hbuilder.md",
-    "Web前端/CSS/CSS属性/CSS 属性.md",
-    "Web前端/CSS/CSS属性/边框(border)属性.md",
-    "Web前端/CSS/CSS属性/字体(font)&文本(text)属性.md",
-    "Web前端/CSS/CSS属性/外边距(margin)属性.md",
-    "Web前端/CSS/CSS属性/背景(background)属性.md",
     "Web前端/Web-Files/盒子模型.png",
-    "Web前端/CSS/选择器/伪类选择器.md",
-    "Web前端/CSS/Link标签.md",
     "Web前端/CSS/CSS属性",
     "Web前端/CSS/选择器",
     "Web前端/Web-Files/CSS语法.gif",
@@ -245,11 +262,7 @@
     "Web前端/HTML/标签",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
     "C语言笔记/结课答辩_蔡.canvas",
-    "Web前端/CSS",
-    "Web前端/HTML",
-    "Web前端/HTML/表单 Form",
     "C语言笔记/C-files/逆向取余法.png",
-    "C语言笔记/结课答辩",
     "C语言笔记/结课答辩.canvas",
     "Web前端/Web-Files/Pasted image 20231009135005.png",
     "Web前端/Web-Files/Pasted image 20231009135231.png",
