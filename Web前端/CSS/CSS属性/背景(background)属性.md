@@ -20,7 +20,28 @@ tags:
 
 [^1]: 详见：[菜鸟教程-CSS3背景属性](https://www.runoob.com/cssref/css-reference.html#background:~:text=3-,%E8%83%8C%E6%99%AF%E5%B1%9E%E6%80%A7,-%E5%B1%9E%E6%80%A7)
 
-## bg-size背景图像大小[^2]
+---
+## background-image 背景图片
+
+装饰性图片、logo或者超大图片，可以使用背景图片来展示，这是因为背景图片的位置比较容易控制。
+通过 `background-repeat` 来控制平铺方式。使用 `background-position` 来控制图片位置。
+
+页面元素既可以添加背景图片也可以设置背景颜色，背景图片会在背景颜色之上。
+
+---
+## background-position 背景图片位置
+
+1. 参数是方位名词
+	- 如果指定的两个值都是方位名词，则两个值前后顺序无关，比如 `left top` 和 `top left` 效果一样。
+	- 如果只指定了一个方位名词，则第二个值默认是 `center`
+2. 参数是精确单位
+	- 如果参数值是精确坐标，那么第一个值为X坐标，第二个值为Y坐标，原点始终为左上角。
+	- 如果只指定一个坐标，那么只能是X坐标，另一个值是 `center`。
+3. 如果是混合单位
+	- 如果指定的两个值是精确单位和方位名词混合使用，则第一个值是X坐标，第二个是Y坐标。
+
+---
+## background-size 背景图像大小[^2]
 
 |`background-size`值|描述|
 |:--|:--|
@@ -30,3 +51,26 @@ tags:
 |`contain`|此时会保持图像的纵横比并将图像缩放成将适合背景定位区域的最大大小。|
 
 [^2]:详见：[CSS3 background-size 属性 | 菜鸟教程 (runoob.com)](https://www.runoob.com/cssref/css3-pr-background-size.html)
+
+---
+
+## background-attachment 背景附着
+
+| 参数     | 作用                   |
+| -------- | ---------------------- |
+| `scroll` | 背景图像岁对象内容滚动 |
+| `fixed`  | 背景图像固定                       |
+
+可以通过`background-attachment`来实现视差滚动效果。
+
+---
+
+## background 综合属性
+
+当使用简写属性时，没有特定的书写顺序，一般习惯约定的顺序为：
+```mermaid
+graph LR
+A(background:)
+B[背景颜色]-->C[图片地址]-->D[平铺方式]-->E[图片附着方式]-->F[图片位置]
+```
+

@@ -14,7 +14,7 @@ aliases:
 | `font-size`   | 设置字体大小                 | `font-size:12px;`               | 像素（px）、百分比（%）、em、rem、[[Web前端/计量单位\|等等]] |
 | `font-style`  | 设置字体风格                | `font-style:italic;`            | `normal`（默认）、`italic`（使用斜体）、`oblique`（倾斜字体） |
 | `font-weight` | 设置字体粗细                | `font-weight:bold;`             | 数字值（100-900）、关键词 `normal`、`bold`、`bolder`、`lighter` |
-| `font`        | 在一个声明中设置所有字体属性 ==字体属性的顺序：字体风格→字体粗细→字体大小→字体类型== | `font:italic bold 36px "宋体";` | 组合 `font-style`、`font-variant`、`font-weight`、`font-stretch`、`font-size`、`line-height` 和 `font-family` |
+| `font`        | 在一个声明中设置所有字体属性 ==字体属性的顺序：字体风格→字体粗细→字体大小→字体类型== | `font:italic bold 36px/40px "宋体";` | `font: font-style font-weight font-size/line-height font-family` |
 
 这些是常用的字体属性，用于控制文本的字体样式。每个属性具有特定的含义，而可选的值取决于属性的类型和用途。字体属性允许你定义文本的外观，包括字体类型、大小、风格和粗细等。
 
