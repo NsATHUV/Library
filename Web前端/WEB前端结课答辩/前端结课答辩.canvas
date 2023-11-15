@@ -25,7 +25,8 @@
 		{"id":"20bb3ef3b2a05461","type":"file","file":"Web前端/CSS/CSS三大特性/层叠性.md","x":4300,"y":280,"width":400,"height":400},
 		{"id":"df4e0cfe13ccc43b","type":"file","file":"Web前端/WEB前端结课答辩/案例-品优购/index.html","x":3710,"y":-508,"width":440,"height":267},
 		{"id":"63a026359f1cd9bc","type":"file","file":"Web前端/Web-Files/示例图.png","x":4230,"y":-508,"width":400,"height":267},
-		{"id":"71ad7134f8185b8d","type":"text","text":"# 结课答辩-蔡金良","x":-640,"y":20,"width":340,"height":80,"color":"4"}
+		{"id":"71ad7134f8185b8d","type":"text","text":"# 结课答辩-蔡金良","x":-640,"y":20,"width":340,"height":80,"color":"4"},
+		{"id":"1f666c26621d861e","x":4960,"y":-474,"width":786,"height":100,"color":"1","type":"text","text":"[笔记: 个人日常记录的笔记，基于Obsidian编写。部分内容摘自菜鸟编程，主要用于个人双端同步笔记，当然也愿意共享给任何人。 (gitee.com)](https://gitee.com/NsATS/Library)"}
 	],
 	"edges":[
 		{"id":"1021920e3d5dad06","fromNode":"71ad7134f8185b8d","fromSide":"right","toNode":"6b6ffcf46eba96cd","toSide":"left"},
@@ -47,6 +48,7 @@
 		{"id":"72c5aaea944c0850","fromNode":"a5a62b6955f66b95","fromSide":"bottom","toNode":"8b239200d5fb3634","toSide":"right"},
 		{"id":"08588bef3c4f953c","fromNode":"377422491d90133d","fromSide":"bottom","toNode":"71098e8202d15a68","toSide":"left"},
 		{"id":"818df96594826bec","fromNode":"a5a62b6955f66b95","fromSide":"top","toNode":"8c3ed6392156b666","toSide":"bottom"},
-		{"id":"0c969151c9932350","fromNode":"c9e1a32ab2900167","fromSide":"right","toNode":"8c3ed6392156b666","toSide":"left"}
+		{"id":"0c969151c9932350","fromNode":"c9e1a32ab2900167","fromSide":"right","toNode":"8c3ed6392156b666","toSide":"left"},
+		{"id":"1e4456f7cad23120","fromNode":"8c3ed6392156b666","fromSide":"right","toNode":"1f666c26621d861e","toSide":"left"}
 	]
 }
