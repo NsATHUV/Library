@@ -4,69 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2b973a8e412319",
+        "id": "4c2c55e00bfa8c14",
         "type": "tabs",
+        "dimension": 52.824519230769226,
         "children": [
           {
-            "id": "322adab1ae6c35fa",
+            "id": "e59d2d938b9b7ba9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
-                "viewState": {
-                  "x": 4421.927181491231,
-                  "y": 50.047450161003496,
-                  "zoom": -1.0513468800002204
-                }
-              }
-            }
-          },
-          {
-            "id": "912937d1ab636d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web前端/CSS/CSS基本语法结构.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d16a0bfc350ef2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "165b8a1a334ee69d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web前端/EMMET 语法/EMMET-CSS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a8a1bd03149c3ad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "cab487ca0f1803aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fa3c25d873764b35",
+        "type": "tabs",
+        "dimension": 47.175480769230774,
+        "children": [
+          {
+            "id": "407d87a4e66ca70f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Python/Python-Files/《Python编程从入门到实践第3版》.pdf"
+              }
             }
           }
         ]
@@ -98,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "音",
+                "query": "scanf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
     "id": "08fd46356a5bb0ef",
@@ -136,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web前端/WEB前端结课答辩/前端结课答辩.canvas"
+                "file": "Git/Git介绍.md"
               }
             }
           },
@@ -157,16 +135,16 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
+                "file": "Git/Git介绍.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -180,7 +158,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6024013357398964,
                   "close": true
                 }
               }
@@ -199,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
+                "file": "Git/Git介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,17 +194,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
+                "file": "Git/Git介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
+    "width": 276.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -243,57 +222,56 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "322adab1ae6c35fa",
+  "active": "cab487ca0f1803aa",
   "lastOpenFiles": [
-    "Web前端/Web-Files/示例图.png",
-    "Web前端/CSS/CSS三大特性/优先级.md",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/recom_03.jpg",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/list.jpg",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/focus1.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-6.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-b01.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-5.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-4.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-3.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-2.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload/floor-1-1.png",
-    "Web前端/WEB前端结课答辩/案例-品优购/fonts/icomoon.woff",
-    "Web前端/WEB前端结课答辩/案例-品优购/fonts/icomoon.ttf",
-    "Web前端/WEB前端结课答辩/案例-品优购/fonts/icomoon.eot",
-    "Web前端/WEB前端结课答辩/案例-品优购/css/register.css",
-    "Web前端/WEB前端结课答辩/案例-品优购/css/base.css",
-    "Web前端/WEB前端结课答辩/案例-品优购/css/common.css",
-    "Web前端/WEB前端结课答辩/案例-品优购/css/list.css",
-    "Web前端/WEB前端结课答辩/案例-品优购/css/index.css",
-    "Web前端/WEB前端结课答辩/案例-品优购/upload",
-    "Web前端/WEB前端结课答辩/案例-品优购/register.html",
-    "Web前端/前端结课答辩.canvas",
-    "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
+    "Python/第3章 列表简介/3.1 列表是什么.md",
+    "Python/Python-Files/《Python编程从入门到实践第3版》.pdf",
+    "Python/第3章 列表简介/第3章 列表简介.md",
+    "Python/Python 简介.md",
+    "Python/第2章 变量和简单的数据类型/2.6 Python之禅.md",
+    "Python/第3章 列表简介",
+    "C语言笔记/转义字符.md",
+    "C语言笔记/函数/库函数.md",
+    "Python/第2章 变量和简单的数据类型/第2章 变量和简单的数据类型.md",
+    "Python/第2章 变量和简单的数据类型/未命名.md",
+    "Python/第2章 变量和简单的数据类型/2.5 注释.md",
+    "Python/第2章 变量和简单的数据类型/2.4 数.md",
+    "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
+    "Python/第2章 变量和简单的数据类型/2.2 变量.md",
+    "Python/第2章 变量和简单的数据类型/2.1 运行 hello_world.py 时发生的情况.md",
+    "MySQL数据库/Mysql 数据库.md",
+    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets/image-20230508141401518.png.md",
+    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets",
+    "Python/Python 数据类型.md",
+    "Python/Python 运算符.md",
+    "Python/第1章 起步/第1章 编程环境搭建&Hello World.md",
+    "readme_en.md",
+    "readme_zh.md",
+    "Python/待整理.md",
     "Web前端/CSS/CSS基本语法结构.md",
-    "Web前端/HTML/标签-简介.md",
-    "Web前端/万维网.md",
-    "Web前端/Web 前端.md",
-    "Web前端/CSS/选择器/CSS选择器.md",
-    "Web前端/CSS/CSS三大特性/CSS三大特性.md",
-    "Web前端/CSS/CSS简介.md",
-    "Web前端/CSS/CSS属性/CSS 属性.md",
-    "Web前端/CSS/CSS三大特性/有关CSS优先级的讨论.md",
-    "Web前端/CSS/CSS三大特性/继承性.md",
-    "Web前端/CSS/CSS三大特性/层叠性.md",
-    "Web前端/CSS/CSS属性/背景(background)属性.md",
-    "Web前端/CSS/网页布局/元素显示方式&标准文档流.md",
-    "Web前端/CSS/CSS属性/定位（Positioning） 属性.md",
-    "Web前端/网页和网站.md",
-    "Web前端/HTML/表单 Form/文件域 File.md",
-    "Web前端/MIME类型.md",
-    "C语言笔记/分支结构/if语句.md",
-    "Web前端/HTML/标签属性.md",
-    "Web前端/EMMET 语法/EMMET-CSS.md",
-    "Web前端/CSS/网页布局/浮动.md",
-    "Web前端/CSS/网页布局/元素的显示模式.md",
-    "Web前端/CSS/网页布局/网页布局-简介.md",
-    "Web前端/CSS/选择器/伪类选择器.md",
+    "2023-11-27.md",
+    "C语言笔记/结课答辩/二十进制转换代码.md",
+    "Web前端/HTML/表单 Form/form-input 案例.md",
+    "Python/Python-Files/ClashX.dmg",
+    "Python/第2章 变量和简单的数据类型",
+    "Python/Python-Files/Pasted image 20231121145454.png",
+    "Python/Python-Files",
+    "Python/第1章 起步",
+    "MySQL数据库/Mysql 数据库.assets/image-20230524001744340.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230524002124761.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230508141401518.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230508100056343.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230508095803939.png",
+    "MySQL数据库/Mysql 数据库.assets/1683788143524-1683795834118-2.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230524002200552.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230531095739105.png",
+    "MySQL数据库/Mysql 数据库.assets/image-20230523232332579.png",
+    "MySQL数据库/Mysql 数据库.assets",
+    "MySQL数据库",
+    "数据库/Mysql 数据库.assets",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
+    "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
+    "Web前端/前端结课答辩.canvas",
     "C语言笔记/结课答辩_蔡.canvas",
     "C语言笔记/结课答辩.canvas",
     "结课答辩.canvas",

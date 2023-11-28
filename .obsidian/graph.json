@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"tags\":简介]",
@@ -46,6 +46,6 @@
   "repelStrength": 17.80276816609,
   "linkStrength": 1,
   "linkDistance": 232,
-  "scale": 0.382301096876995,
+  "scale": 0.38230109687699454,
   "close": true
 }

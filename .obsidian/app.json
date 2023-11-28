@@ -4,7 +4,7 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "Web前端/Web-Files",
+  "attachmentFolderPath": "Python/Python-Files",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -13,5 +13,8 @@
     "downscalePercent": 100
   },
   "newLinkFormat": "absolute",
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showInlineTitle": true,
+  "promptDelete": false
 }

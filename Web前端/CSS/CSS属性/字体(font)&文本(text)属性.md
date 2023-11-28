@@ -29,7 +29,9 @@ aliases:
 | `line-height`     | 设置文本行高         | `line-height:25px` 行高            | 像素（px）、百分比（%）、无单位等 |
 | `text-decoration` | 设置文本的装饰       | `text-decoration:underline;` 下划线 | `none`、`underline`、`overline`、`line-through` 等 |
 
+### TOPS
 
+1. `line-height`：行高，是一个总值，其构成是垂直：上间距、文本高度、下间距。当设置一个值时，会自动计算上间距和下间距。其计算公式是：==总高=上间距+下间距+文本高度==。其中上间距=下间距。
 
 
 
