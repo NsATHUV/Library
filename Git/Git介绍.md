@@ -6,6 +6,8 @@ aliases:
   - git目录
   - git 笔记
   - git 目录
+cssclasses: 
+时间: 2023-11-28
 ---
 ```mermaid
 graph LR
@@ -17,7 +19,7 @@ graph LR
   D -->|git pull| C
 
 ```
-### Git 仓库状态笔记
+### Git 仓库状态
 
 #### 1. 仓库状态概述
 

@@ -6,39 +6,69 @@
       {
         "id": "4c2c55e00bfa8c14",
         "type": "tabs",
-        "dimension": 52.824519230769226,
+        "dimension": 58.77403846153846,
         "children": [
           {
             "id": "e59d2d938b9b7ba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "cab487ca0f1803aa",
+            "id": "ecc8c0cdff4aa256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git介绍.md",
+                "file": "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d7f305472f40985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Callout.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9966b5559ce1a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "fa3c25d873764b35",
+        "id": "ed8c19ed861c7709",
         "type": "tabs",
-        "dimension": 47.175480769230774,
+        "dimension": 41.22596153846153,
         "children": [
           {
-            "id": "407d87a4e66ca70f",
+            "id": "1df5b31e8853fdc4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -76,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scanf",
+                "query": "变量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,11 +123,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "08fd46356a5bb0ef",
@@ -114,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git介绍.md"
+                "file": "Python/第3章 列表简介/3.1 列表是什么.md"
               }
             }
           },
@@ -135,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Git介绍.md",
+                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git介绍.md",
+                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git介绍.md",
+                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +245,6 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
@@ -222,36 +253,41 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "cab487ca0f1803aa",
+  "active": "e59d2d938b9b7ba9",
   "lastOpenFiles": [
+    "Web前端/CSS/CSS属性/列表(list)属性.md",
     "Python/第3章 列表简介/3.1 列表是什么.md",
+    "Python/第2章 变量和简单的数据类型/2.2 变量.md",
+    "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
+    "Obsidian/Callout.md",
+    "Python/Python 运算符.md",
+    "Python/第2章 变量和简单的数据类型/2.4 数.md",
     "Python/Python-Files/《Python编程从入门到实践第3版》.pdf",
     "Python/第3章 列表简介/第3章 列表简介.md",
     "Python/Python 简介.md",
-    "Python/第2章 变量和简单的数据类型/2.6 Python之禅.md",
-    "Python/第3章 列表简介",
-    "C语言笔记/转义字符.md",
-    "C语言笔记/函数/库函数.md",
-    "Python/第2章 变量和简单的数据类型/第2章 变量和简单的数据类型.md",
-    "Python/第2章 变量和简单的数据类型/未命名.md",
-    "Python/第2章 变量和简单的数据类型/2.5 注释.md",
-    "Python/第2章 变量和简单的数据类型/2.4 数.md",
-    "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
-    "Python/第2章 变量和简单的数据类型/2.2 变量.md",
-    "Python/第2章 变量和简单的数据类型/2.1 运行 hello_world.py 时发生的情况.md",
-    "MySQL数据库/Mysql 数据库.md",
-    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets/image-20230508141401518.png.md",
-    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets",
-    "Python/Python 数据类型.md",
-    "Python/Python 运算符.md",
-    "Python/第1章 起步/第1章 编程环境搭建&Hello World.md",
-    "readme_en.md",
-    "readme_zh.md",
     "Python/待整理.md",
-    "Web前端/CSS/CSS基本语法结构.md",
-    "2023-11-27.md",
-    "C语言笔记/结课答辩/二十进制转换代码.md",
-    "Web前端/HTML/表单 Form/form-input 案例.md",
+    "C语言笔记/运算符/算数运算符.md",
+    "Obsidian",
+    "C语言笔记/数组/数组-简介.md",
+    "Python/Python 数据类型.md",
+    "Python/Python-Files/Pasted image 20231129142742.png",
+    "MOULD/章节简介.md",
+    "C语言笔记/运算符/优先级和结合性.md",
+    "C语言笔记/运算符/运算符-简介.md",
+    "C语言笔记/指针/指针-简介.md",
+    "C语言笔记/指针/使用指针变量.md",
+    "C语言笔记/指针/定义指针变量.md",
+    "C语言笔记/C语言.md",
+    "C语言笔记/字符串.md",
+    "C语言笔记/转义字符.md",
+    "C语言笔记/文件包含（预处理）.md",
+    "C语言笔记/数据类型.md",
+    "C语言笔记/取值范围.md",
+    "C语言笔记/基础.md",
+    "Git/git-files/Pasted image 20231007133631.png",
+    "MOULD",
+    "Python/第3章 列表简介",
+    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets",
     "Python/Python-Files/ClashX.dmg",
     "Python/第2章 变量和简单的数据类型",
     "Python/Python-Files/Pasted image 20231121145454.png",
@@ -264,11 +300,7 @@
     "MySQL数据库/Mysql 数据库.assets/image-20230508095803939.png",
     "MySQL数据库/Mysql 数据库.assets/1683788143524-1683795834118-2.png",
     "MySQL数据库/Mysql 数据库.assets/image-20230524002200552.png",
-    "MySQL数据库/Mysql 数据库.assets/image-20230531095739105.png",
-    "MySQL数据库/Mysql 数据库.assets/image-20230523232332579.png",
     "MySQL数据库/Mysql 数据库.assets",
-    "MySQL数据库",
-    "数据库/Mysql 数据库.assets",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
     "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
     "Web前端/前端结课答辩.canvas",
