@@ -2,7 +2,7 @@
   "accentColor": "#32c6bf",
   "interfaceFontFamily": "HarmonyOS Sans SC,小米兰亭 Pro",
   "textFontFamily": "小米兰亭 Pro,HarmonyOS Sans SC",
-  "baseFontSize": 20,
+  "baseFontSize": 17,
   "translucency": false,
   "nativeMenus": false,
   "theme": "obsidian",

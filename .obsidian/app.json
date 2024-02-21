@@ -4,10 +4,10 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "Python/Python-Files",
+  "attachmentFolderPath": "Python/Python-files",
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

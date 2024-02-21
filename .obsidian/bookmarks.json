@@ -13,9 +13,14 @@
           "type": "file",
           "ctime": 1697592861025,
           "path": "Web前端/Web 前端.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701393140120,
+          "path": "Python/Python 简介.md"
         }
       ],
-      "title": "根"
+      "title": "领域"
     },
     {
       "type": "group",
@@ -28,6 +33,18 @@
         }
       ],
       "title": "参考"
+    },
+    {
+      "type": "group",
+      "ctime": 1701393110116,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1701393123795,
+          "path": "Python/变量和数据类型/Python-数据类型.md"
+        }
+      ],
+      "title": "Python 重点"
     }
   ]
 }

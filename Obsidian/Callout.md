@@ -31,8 +31,9 @@ tags:
 
 ---
 ### 目前支持的样式列表
+
 左边为中文释义，右边为语法，每条当中效果一致，其他的单词就是别名：
-- 笔记 (Note)
+- 笔记 (Note)，可以使用任意单词，最终渲染均为改样式
 - 摘要，总结，TLDR (Abstract, Summary, TLDR)
 - 提示，暗示，重要 (Tip, Hint, Important)
 - 成功，检查，完成 (Success, Check, Done)
@@ -45,7 +46,7 @@ tags:
 - 引用，引述 (Quote, Cite)
 
 #### 官方示例
-- 笔记 (Note)
+- 笔记 (Note)，可以使用任意单词，最终渲染均为改样式
 > [!note] **Note**
 > 
 > Here’s a callout block.  
@@ -92,7 +93,7 @@ tags:
 > [!tip] **Callouts can have custom titles** | callout可以有自定义标题
 > Like this one. 像这个。
 
-- 折叠提示框
+- 在 `[]` 后使用减号 `-` 创建可折叠提示框
 > [!faq]- Are callouts foldable? 标注可以折叠吗?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
 > 是的！在可折叠注解中，内容在折叠时处于隐藏状态。

@@ -6,15 +6,14 @@
       {
         "id": "4c2c55e00bfa8c14",
         "type": "tabs",
-        "dimension": 58.77403846153846,
         "children": [
           {
-            "id": "e59d2d938b9b7ba9",
+            "id": "833a2e42f8a67851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
+                "file": "Python/数据结构/列表/列表的方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,12 +21,12 @@
             }
           },
           {
-            "id": "ecc8c0cdff4aa256",
+            "id": "fe84902af00bf212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
+                "file": "Python/数据结构/集合/集合的方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,44 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Callout.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9966b5559ce1a7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
+                "file": "数据分析/PowerBI/PowerBI-根.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ed8c19ed861c7709",
-        "type": "tabs",
-        "dimension": 41.22596153846153,
-        "children": [
-          {
-            "id": "1df5b31e8853fdc4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Python/Python-Files/《Python编程从入门到实践第3版》.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +59,7 @@
       {
         "id": "d238df67e5f85e68",
         "type": "tabs",
+        "dimension": 76.5686274509804,
         "children": [
           {
             "id": "98b34c84ab4588b9",
@@ -106,10 +77,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "变量",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -123,13 +94,31 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1733ec00c51268ac",
+        "type": "tabs",
+        "dimension": 23.431372549019606,
+        "children": [
+          {
+            "id": "518c284e163467a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/大纲.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "08fd46356a5bb0ef",
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/第3章 列表简介/3.1 列表是什么.md"
+                "file": "数据分析/PowerBI/PowerBI-根.md"
               }
             }
           },
@@ -167,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
+                "file": "数据分析/PowerBI/PowerBI-根.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,7 +185,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6eed7c2d60db7d77",
@@ -209,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
+                "file": "数据分析/PowerBI/PowerBI-根.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/第3章 列表简介/3.1 列表是什么.md",
+                "file": "数据分析/PowerBI/PowerBI-根.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,54 +242,54 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e59d2d938b9b7ba9",
+  "active": "7d7f305472f40985",
   "lastOpenFiles": [
-    "Web前端/CSS/CSS属性/列表(list)属性.md",
-    "Python/第3章 列表简介/3.1 列表是什么.md",
-    "Python/第2章 变量和简单的数据类型/2.2 变量.md",
-    "Python/第2章 变量和简单的数据类型/2.3 字符串.md",
-    "Obsidian/Callout.md",
-    "Python/Python 运算符.md",
-    "Python/第2章 变量和简单的数据类型/2.4 数.md",
-    "Python/Python-Files/《Python编程从入门到实践第3版》.pdf",
-    "Python/第3章 列表简介/第3章 列表简介.md",
+    "Python/面向对象/函数/函数对象和方法对象.md",
+    "Python/面向对象/类/魔法方法（Magic Methods）.md",
+    "数据分析/PowerBI/PowerBI-根.md",
+    "Python/数据结构/Python-数据结构.md",
     "Python/Python 简介.md",
+    "Python/Python & 编程环境.md",
+    "Python/面向对象/面向对象-简介.md",
+    "数据分析/PowerBI",
+    "数据分析",
+    "Python/面向对象/面向对象和面向过程.md",
+    "Python/面向对象/函数/函数的基本语法.md",
+    "Python/面向对象/函数/函数-简介.md",
+    "Python/变量和数据类型/Python-数据类型.md",
+    "Python/数据结构/列表/访问列表元素.md",
+    "Python/面向对象/函数/函数的调用.md",
+    "Obsidian/Callout.md",
+    "Python/数据结构/列表/列表的方法.md",
+    "Python/数据结构/列表/列表-简介.md",
+    "Python/数据结构/列表/列表切片.md",
+    "Python/数据结构/列表/列表运算.md",
+    "Python/数据结构/列表/列表推导.md",
+    "Python/读写文件/读写文件.md",
+    "Python/面向对象/类/定义类.md",
     "Python/待整理.md",
-    "C语言笔记/运算符/算数运算符.md",
-    "Obsidian",
-    "C语言笔记/数组/数组-简介.md",
-    "Python/Python 数据类型.md",
+    "Python/大纲.md",
+    "MySQL数据库/Mysql 数据库.md",
+    "Python/Python 数据分析/爬虫/爬虫-简介.md",
+    "Python/Python 数据分析/爬虫",
+    "Python/Python 数据分析",
+    "Web前端/Web 前端.md",
+    "Python/面向对象/类",
+    "Python/面向对象/函数",
+    "Python/面向对象",
+    "Python/数据结构/元组",
+    "Python/数据结构/列表",
+    "Python/数据结构",
+    "Python/Python-files/Pycharm不同版本.png",
     "Python/Python-Files/Pasted image 20231129142742.png",
-    "MOULD/章节简介.md",
-    "C语言笔记/运算符/优先级和结合性.md",
-    "C语言笔记/运算符/运算符-简介.md",
-    "C语言笔记/指针/指针-简介.md",
-    "C语言笔记/指针/使用指针变量.md",
-    "C语言笔记/指针/定义指针变量.md",
-    "C语言笔记/C语言.md",
-    "C语言笔记/字符串.md",
-    "C语言笔记/转义字符.md",
-    "C语言笔记/文件包含（预处理）.md",
-    "C语言笔记/数据类型.md",
-    "C语言笔记/取值范围.md",
-    "C语言笔记/基础.md",
     "Git/git-files/Pasted image 20231007133631.png",
-    "MOULD",
-    "Python/第3章 列表简介",
-    "Mysql%20%E6%95%B0%E6%8D%AE%E5%BA%93.assets",
-    "Python/Python-Files/ClashX.dmg",
-    "Python/第2章 变量和简单的数据类型",
     "Python/Python-Files/Pasted image 20231121145454.png",
-    "Python/Python-Files",
-    "Python/第1章 起步",
     "MySQL数据库/Mysql 数据库.assets/image-20230524001744340.png",
     "MySQL数据库/Mysql 数据库.assets/image-20230524002124761.png",
     "MySQL数据库/Mysql 数据库.assets/image-20230508141401518.png",
     "MySQL数据库/Mysql 数据库.assets/image-20230508100056343.png",
     "MySQL数据库/Mysql 数据库.assets/image-20230508095803939.png",
     "MySQL数据库/Mysql 数据库.assets/1683788143524-1683795834118-2.png",
-    "MySQL数据库/Mysql 数据库.assets/image-20230524002200552.png",
-    "MySQL数据库/Mysql 数据库.assets",
     "C语言笔记/结课答辩/结课答辩_蔡.canvas",
     "Web前端/WEB前端结课答辩/前端结课答辩.canvas",
     "Web前端/前端结课答辩.canvas",
