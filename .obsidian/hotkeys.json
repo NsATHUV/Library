@@ -47,15 +47,6 @@
       "key": "R"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "bookmarks:open": [
     {
       "modifiers": [
@@ -89,6 +80,15 @@
         "Alt"
       ],
       "key": "T"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }

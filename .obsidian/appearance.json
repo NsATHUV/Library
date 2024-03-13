@@ -2,12 +2,12 @@
   "accentColor": "#32c6bf",
   "interfaceFontFamily": "HarmonyOS Sans SC,小米兰亭 Pro",
   "textFontFamily": "小米兰亭 Pro,HarmonyOS Sans SC",
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "translucency": false,
   "nativeMenus": false,
   "theme": "obsidian",
   "showViewHeader": true,
-  "monospaceFontFamily": "小米兰亭 Pro,HarmonyOS Sans SC,MiSans",
+  "monospaceFontFamily": "Noto Sans Mono,小米兰亭 Pro,HarmonyOS Sans SC,MiSans",
   "enabledCssSnippets": [
     "NsATS"
   ]
