@@ -1,0 +1,36 @@
+.markdown-rendered mark {
+    background-color: rgb(68 211 165 / 33%);
+    color: var(--text-normal);
+}
+
+.cm-s-obsidian span.cm-highlight {
+    background-color: rgb(68 211 165 / 33%);
+    color: var(--text-normal);
+}
+
+.from_the_book {
+    box-shadow: 5px 10PX 13PX 0PX rgb(23 236 207 / 10%);
+    line-height: 91px;
+    letter-spacing: 20px;
+    height: 100PX;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    color: rgb(42 249 255);
+    display: block;
+    border: 3px rgb(50, 198, 191) solid;
+    border-radius: 20px;
+    background-color: rgba(50, 198, 190, 0.301);
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+    text-decoration: none;
+    color: var(--checklist-done-color);
+}
+
+ul>li.task-list-item[data-task="x"],
+ul>li.task-list-item[data-task="X"] {
+    text-decoration: none;
+    color: var(--checklist-done-color);
+}

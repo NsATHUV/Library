@@ -1,0 +1,20 @@
+{
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "Python/Python-files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "absolute",
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showInlineTitle": true,
+  "promptDelete": false
+}
