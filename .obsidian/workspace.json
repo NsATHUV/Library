@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MongoDB/MongoDB-根.md",
+                "file": "readme_zh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MongoDB/MongoDB-根.md"
+                "file": "readme_zh.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数据库/MongoDB/MongoDB-根.md",
+                "file": "readme_zh.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MongoDB/MongoDB-根.md",
+                "file": "readme_zh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MongoDB/MongoDB-根.md",
+                "file": "readme_zh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +229,14 @@
   },
   "active": "fe84902af00bf212",
   "lastOpenFiles": [
-    "数据库/MongoDB/NoSQL 原则.md",
-    "数据库/MongoDB/MongoDB-根.md",
+    "readme_en.md",
+    "readme_zh.md",
     "数据库/MongoDB/关系型和非关系型数据库.md",
+    "数据库/MongoDB/MongoDB-根.md",
+    "C语言笔记/基础.md",
+    "C语言笔记/C语言.md",
+    "C语言笔记/短路求值（求值策略）.md",
+    "数据库/MongoDB/NoSQL 原则.md",
     "数据库/MySQL/Mysql 数据库.md",
     "Python/面向对象/类/继承/定义继承类.md",
     "数据库/MongoDB",
@@ -255,13 +260,8 @@
     "Python/PyQt/PyQt5/PyQt5.md",
     "Python/数据结构/列表/列表的方法.md",
     "Python/数据分析/PowerBI/PowerBI-根.md",
-    "Obsidian/Callout.md",
     "Python/PyQt/PyQt5",
     "Python/PyQt",
-    "Python/面向对象/类/继承/继承逻辑.md",
-    "Python/面向对象/类/继承/继承-简介.md",
-    "Python/面向对象/类/类-简介.md",
-    "Python/数据结构/集合/集合的方法.md",
     "Python/面向对象/类/继承",
     "Python/数据分析/PowerBI",
     "Python/数据分析",
