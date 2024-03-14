@@ -55,7 +55,7 @@ PyCharm作为一款强大的IDE，提供了丰富的工具和功能，加速了P
 
 **专业版与社区版的区别：**
 
-![[Python/Python-files/Pycharm不同版本.png|600]]
+![[Python/Files/Pycharm不同版本.png|600]]
 
 
 ---

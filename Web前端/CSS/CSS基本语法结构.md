@@ -4,7 +4,7 @@ tags:
 ---
 #CSS/基础
 # 语法
-![[Web前端/Web-Files/CSS语法.gif]]
+![[Web前端/Files/CSS语法.gif]]
 ```CSS
 选择器{
 	属性1:值;

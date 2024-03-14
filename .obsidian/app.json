@@ -4,7 +4,7 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "Python/Python-files",
+  "attachmentFolderPath": "./Files",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
@@ -16,5 +16,8 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "showInlineTitle": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "日记/"
+  ]
 }
