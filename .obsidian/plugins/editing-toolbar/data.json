@@ -56,7 +56,7 @@
     },
     {
       "id": "editing-toolbar:editor:toggle-bold",
-      "name": "Toggle bold",
+      "name": "加粗",
       "icon": "bold-glyph"
     },
     {

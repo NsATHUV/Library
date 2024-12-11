@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"tags\":简介]",
@@ -45,14 +45,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.56271626297578,
-  "lineSizeMultiplier": 2.60086505190311,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 2.75769896193772,
+  "lineSizeMultiplier": 3.57153979238754,
   "collapse-forces": false,
-  "centerStrength": 0.76643598615917,
-  "repelStrength": 18.2871972318339,
+  "centerStrength": 0.6219723183391,
+  "repelStrength": 17.1453287197232,
   "linkStrength": 1,
-  "linkDistance": 232,
-  "scale": 0.6346285676930552,
+  "linkDistance": 330,
+  "scale": 0.3823010968769908,
   "close": true
 }

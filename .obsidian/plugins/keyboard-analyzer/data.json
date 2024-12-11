@@ -3,7 +3,7 @@
   "filterSettings": {
     "FeaturedFirst": false,
     "StrictSearch": false,
-    "HighlightCustom": false,
+    "HighlightCustom": true,
     "HighlightDuplicates": false,
     "DisplayWOhotkeys": false,
     "DisplayIDs": false

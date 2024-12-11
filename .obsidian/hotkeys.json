@@ -1,10 +1,4 @@
 {
-  "keyboard-analyzer:show-shortcuts-analyzer-view": [
-    {
-      "modifiers": [],
-      "key": "F12"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -85,10 +79,37 @@
   "insert-template": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Alt"
       ],
       "key": "O"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:open-search": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c4f06d24b51487c9","type":"text","text":"Servlet","x":-400,"y":-180,"width":124,"height":60,"color":"1"},
+		{"id":"a114eb19010259ac","type":"text","text":"Servlet 的概念","x":-120,"y":-508,"width":199,"height":54,"color":"4"},
+		{"id":"bf3070d4261e597b","x":140,"y":-560,"width":360,"height":180,"color":"4","type":"text","text":"全称是JavaServlet，是用Java编写的服务器端的程序，其主要功能在于交互式的浏览和修改数据，生成动态的Web内容。一般把任何实现了Servlet接口的类统称为Servlet。"}
+	],
+	"edges":[
+		{"id":"da16d9baf3764fc0","fromNode":"c4f06d24b51487c9","fromSide":"right","toNode":"a114eb19010259ac","toSide":"left"},
+		{"id":"8f7043508c0d5668","fromNode":"a114eb19010259ac","fromSide":"right","toNode":"bf3070d4261e597b","toSide":"left"}
+	]
+}

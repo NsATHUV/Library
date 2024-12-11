@@ -5,7 +5,7 @@ tags:
 ---
   >[!info] Obsidian 0.14.2 版本后增加了 Callout 功能，这个功能就是之前 Admonition (简称 ad 插件) 插件收编的，目前语法跟 Microsoft Docs 一致。之前用 ad 插件设置的提示框可以一键转换成最新的语法样式。
   
-你可以参考英文原版，了解这个功能：[Use callouts](https://help.obsidian.md/How+to/Use+callouts)，也可以阅读下面的中文简要说明
+你可以 参考英文原版，了解这个功能：[Use callouts](https://help.obsidian.md/How+to/Use+callouts)，也可以阅读下面的中文简要说明
 
 在笔记中直接书写（无需代码块）如下内容：
 
@@ -44,7 +44,6 @@ tags:
 - 错误，漏洞 (Bug)
 - 示例 (Example)
 - 引用，引述 (Quote, Cite)
-
 #### 官方示例
 - 笔记 (Note)，可以使用任意单词，最终渲染均为改样式
 > [!note] **Note**
