@@ -1,6 +1,6 @@
 # Note Repository
 
-[切换至中文](/readme)
+[切换至中文](https://github.com/NsATHUV/Library/blob/master/readme.md)
 ## Introduction
 
 These are personal notes I make in my daily life, written using Obsidian. Some content is extracted from Rookie Programming. The primary purpose is for personal dual-end synchronization of notes, and of course, I'm also willing to share them with anyone interested.
