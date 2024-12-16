@@ -8,7 +8,7 @@ aliases:
 ---
 ### 简介
 
->[!info]
+>[!info] 该笔记取自[Git 教程 | 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
 > Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
 > 
 > Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
@@ -18,5 +18,5 @@ aliases:
 ---
 ### LINKS
 1. [[Git/Git 与 SVN 的区别|Git 与 SVN 的区别]]
-2. 
+2. [[Git/Git 安装与配置/【简】Git 安装与配置|Git 安装与配置]]
 3. 
