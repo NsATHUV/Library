@@ -1,6 +1,6 @@
 # 笔记仓库
 
-[Switch to English](/readme_en)
+[Switch to English](https://github.com/NsATHUV/Library/blob/master/readme_en.md)
 ## 介绍
 
 个人日常记录的笔记，基于Obsidian编写。部分内容摘自菜鸟编程，主要用于个人双端同步笔记，当然也愿意共享给任何人。
